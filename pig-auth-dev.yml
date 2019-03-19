@@ -1,7 +1,5 @@
 server:
   port: 3000
-
-# datasoureÄ¬ÈÏÊ¹ÓÃJDBC
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
